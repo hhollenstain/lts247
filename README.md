@@ -1,6 +1,6 @@
-# Forked from mondedie/docker-flarum
+# Adapated from mondedie/docker-flarum
 
- Adapated from: https://github.com/mondediefr/docker-flarum
+Adapated from: https://github.com/mondediefr/docker-flarum
 ![logo](https://i.imgur.com/Bjrtbsc.png "logo")
 
 ### What is this ?
